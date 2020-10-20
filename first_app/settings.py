@@ -25,7 +25,7 @@ SECRET_KEY = '*xmhv5t0l3(mjp13vhd7h8tp9x%*$=7i)90wycj9s8*e8kni$3'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['techmology.tech', 'www.techmology.tech']
 
 
 # Application definition
