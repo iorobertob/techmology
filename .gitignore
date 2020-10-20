@@ -1,0 +1,6 @@
+db.sqlite3
+assets/*
+media/*
+public/*
+static/*
+tmp/*
