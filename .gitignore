@@ -4,5 +4,6 @@ media/*
 public/*
 static/*
 tmp/*
+first_app/settings.py
 
 passenger.wsgi.py
