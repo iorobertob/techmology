@@ -8,6 +8,3 @@ from django.http import HttpResponse
 def index(request):
 	return HttpResponse("Hello puto");
 
-
-def detail(request, question_id):
-	ret
