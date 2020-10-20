@@ -4,3 +4,5 @@ media/*
 public/*
 static/*
 tmp/*
+
+passenger.wsgi.py
